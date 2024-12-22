@@ -8,6 +8,7 @@ This project demonstrates a basic multiplayer setup using **Netcode for GameObje
 - **Client Join**: Other players can join as clients using the host's IP address.
 - **Transform Sync**: The player’s position, rotation, and scale are synchronized across the network.
 - **Interactable Object**: Players can interact with an object in the scene.
+- **Scene Name**: The multiplayer functionality is implemented in the scene named **"Multiplayer"**.
 
 ## How to Use
 
